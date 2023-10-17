@@ -24,7 +24,7 @@
   <groupId>HelloWorldJavaEE</groupId>
   <artifactId>HelloWorldJavaEE</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>ear</packaging>
   <name>Hello World Java EE</name>
   <description>Learn Java and Servlet</description>
   <build>
